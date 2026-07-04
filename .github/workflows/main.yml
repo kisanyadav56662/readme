@@ -8,6 +8,6 @@
    demo:
      runs-on: ubuntu-latest
 
-   steps:
-     - name: Gretings
-       run: echo "hello form readme"
+     steps:
+        - name: Gretings
+          run: echo "hello form readme"
