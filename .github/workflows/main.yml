@@ -6,8 +6,8 @@
 
  jobs:
    demo:
-   runs-on: ubuntu-latest
+     runs-on: ubuntu-latest
 
    steps:
-      - name: greetings
-        run: echo "first workflork work done"
+      - name: Greetings
+         run: echo "first workflork work done"
