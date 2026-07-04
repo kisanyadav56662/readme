@@ -1,0 +1,13 @@
+ name: readme
+
+ on:
+   push:
+      branches: [main]
+
+ jobs:
+   demo:
+   runs-on: ubuntu-latest
+
+   steps:
+      - name: lion
+        run: echo "first workflork work done"
